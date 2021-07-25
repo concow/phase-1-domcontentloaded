@@ -3,6 +3,6 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function loadDom() {
-    document.getElementById("text")
-        .innerHTML = "This is really cool!";
+    document.getElementById("text").innerHTML = "This is really cool!";
+        
 }
